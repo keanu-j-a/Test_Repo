@@ -24,6 +24,7 @@ void LUDecomposition(int rank, int size, int r, long double** arrayInFunction) {
 
 	// Github recognizes this change
 	// and a few more! =)
+	// why not added another line?
 
 	The arguments of the LU decomposition function are as follows
 
