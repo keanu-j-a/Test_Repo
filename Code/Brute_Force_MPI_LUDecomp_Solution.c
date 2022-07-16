@@ -20,6 +20,10 @@ repository).
 void LUDecomposition(int rank, int size, int r, long double** arrayInFunction) {
 
 	/*
+	
+
+	// Github recognizes this chnage
+
 
 	The arguments of the LU decomposition function are as follows
 
